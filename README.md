@@ -1,16 +1,16 @@
-# github-profile-summary-cards-example
+<div align="center">
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<a href="#">
+    <img alt="" src="https://raw.githubusercontent.com/StreetD0g/StreetD0g/master/github-header-image.png">
+</a>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+![Header](/github-header-image.png)
 
-```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="#">
+    <img alt="" src="https://raw.githubusercontent.com/StreetD0g/StreetD0g/master/profile-summary-card-output/2077/0-profile-details.svg">
+</a>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
+<a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=StreetD0g&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
