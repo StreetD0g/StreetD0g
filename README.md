@@ -48,5 +48,5 @@
 <a href="#">
     <img alt="" src="https://raw.githubusercontent.com/StreetD0g/StreetD0g/master/profile-summary-card-output/2077/0-profile-details.svg">
 </a>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StreetD0g&theme=algolia&name=StreetDog)
 </div>
